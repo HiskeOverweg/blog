@@ -2,6 +2,7 @@ const markdownIt = require("markdown-it");
 const markdownItFootnote = require("markdown-it-footnote");
 
 module.exports = function (eleventyConfig) {
+  // Markdown footnotes support.
   let markdownLibrary = markdownIt({
     html: true,
     breaks: true,
@@ -9,4 +10,7 @@ module.exports = function (eleventyConfig) {
     typographer: true,
   }).use(markdownItFootnote);
   eleventyConfig.setLibrary("md", markdownLibrary);
+
+  // Image support.
+  eleventyConfig.setTemplateFormats(["md", "png", "jpg"]);
 };

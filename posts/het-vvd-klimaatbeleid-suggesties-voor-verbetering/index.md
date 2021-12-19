@@ -21,7 +21,7 @@ Waarom zou je het MKB en particulieren niet aanmoedigen om zuinig met energie om
 
 Als je gelooft in een vrije markt, kun je in principe álle maatregelen die de VVD voorstelt voor de energiemarkt vergeten, en in plaats daarvan met een belasting op CO2 precies hetzelfde resultaat behalen. Om dit te demonstreren heb ik [het eindscenario](https://en-roads.climateinteractive.org/scenario.html?p208=2&p209=1&p210=1&p196=100&p202=2030&p4=2&p6=5&p7=10&p16=-0.02&p21=10&p23=10&p30=-0.07&p36=2040&p39=8&p47=3&p50=2.5&p53=2&p55=1&p57=-2&p60=-17&p61=-10&p65=100&p72=33&p74=33&p76=33&p77=2030&v=2.7.36) uit mijn vorige blogpost aangepast. Alle voorstellen van de VVD op het gebied van energie heb ik ongedaan gemaakt, en in plaats daarvan heb ik een hoge belasting op CO2 ingevoerd (110$/ton CO2). Het heeft hetzelfde effect op de temperatuur in het jaar 2100. [Scenario link](https://en-roads.climateinteractive.org/scenario.html?p208=2&p209=1&p39=110&p47=3&p50=2.5&p53=2&p55=1&p57=-2&p60=-17&p61=-10&p65=100&p72=33&p74=33&p76=33&p77=2030&g0=2&g1=62&v=2.7.36)
 
-![](https://hiskeoverweg.files.wordpress.com/2021/02/screenshot-from-2021-02-27-17-35-14.png?w=1024)
+![](img/1.png)
 
 Een CO2 belasting van 110$/ton CO2 heeft in En-ROADS net zo veel effect als alle maatregelen die de VVD in haar verkiezingsprogramma voorstelt.
 
@@ -75,7 +75,7 @@ En om nog even op het VVD standpunt van 'goede investeringen' terug te komen: de
 
 Het potentiaal van ontwikkelingshulp kan in kaart worden gebracht met behulp van de En-ROADS climate simulator. Beter onderwijs voor meisjes, voorlichting over geboortebeperking en aanbod van anticonceptie kan leiden tot een verminderde bevolkingsgroei. [^3] Daarnaast hebben boeren in ontwikkelingslanden baat bij onderwijs over duurzamere landbouwpraktijken, zoals agroforestry. Dit zijn opnieuw veelzijdige oplossingen, die niet alleen bijdragen aan klimaatproblematiek, maar óók zorgen voor emancipatie, betere inkomensgarantie voor boeren en vermindering van migrantenstromen. Deze aanpak kan ons weer 0.1oC dichter bij het doel uit het Parijsakkoord brengen. [Scenario link](https://en-roads.climateinteractive.org/scenario.html?p208=2&p209=1&p210=1&p196=100&p202=2030&p4=2&p6=5&p7=10&p16=-0.02&p21=10&p23=10&p30=-0.07&p36=2040&p39=8&p47=3&p50=2.5&p53=2&p55=1&p57=-2&p60=-17&p61=-10&p63=-1.0000&p65=100&p72=33&p74=33&p76=100&p77=2030&g0=2&g1=62&v=2.7.36)
 
-![](https://hiskeoverweg.files.wordpress.com/2021/02/screenshot-from-2021-02-27-17-43-13.png?w=1024)
+![](img/2.png)
 
 Ontwikkelingshulp door onderwijs op het gebied van geboortebeperking en landbouwpraktijken in En-ROADS
 

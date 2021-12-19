@@ -17,7 +17,7 @@ Ik schatte dat het beleid van de VVD op mondiale schaal zou leiden tot een tempe
 
 Tegen klimaatverandering bestaat geen wondermiddel. Zoals we in het gedachte-experiment zagen, zullen we op vele vlakken moeten ingrijpen om de doelstellingen uit het Parijsakkoord te halen. De En-ROADS simulator laat zien dat er wél nog veel verschillende mogelijkheden zijn om het Parijsakkoord te halen, zolang we nu in actie komen. [Hier](https://en-roads.climateinteractive.org/scenario.html?v=2.7.36) is de simulator, probeer het zelf eens uit!
 
-![](https://hiskeoverweg.files.wordpress.com/2021/02/potion-1.png?w=300)
+![](img/1.png)
 
 Helaas te mooi om waar te zijn...
 
@@ -29,7 +29,7 @@ Natuurlijk, alle kleine beetjes helpen [^1], maar het is wel belangrijk dat we d
 
 Wanneer we maatregelen bedenken om klimaatverandering tegen te gaan, is het essentieel om naar het gehele systeem te kijken waarin we die maatregelen toepassen. Vaak zijn we geneigd om te denken in te simpele structuren, zoals hieronder geschetst.
 
-![](https://hiskeoverweg.files.wordpress.com/2021/02/rechtlijnig.png?w=918)
+![](img/2.png)
 
 Rechtlijinige kijk op de wereld. Bron: Business Dynamics, John D. Sterman, figuur 1.3
 
@@ -39,7 +39,7 @@ Het probleem in complexe systemen is dat we vaak vergeten de reactie van het sys
 
 Volgens de VVD moeten er in Nederland meer wegen worden aangelegd. Dit komt voort uit de (pre-corona?) situatie waarin de wegen te druk zijn, wat leidt tot een onwenselijk lange reistijd en overlast door files. Het systeem reageert echter op de oplossing om meer wegen aan te leggen: mensen zullen méér gaan autorijden, en uiteindelijk staan we evenveel of meer in de file. Dit is een vrij simpel neveneffect wat in de rechtlijnige kijk over het hoofd wordt gezien.
 
-![](https://hiskeoverweg.files.wordpress.com/2021/02/file-2.png?w=959)
+![](img/3.png)
 
 Filebestrijding volgens een rechtlijnige kijk
 
@@ -47,13 +47,13 @@ Filebestrijding volgens een rechtlijnige kijk
 
 De VVD schrijft in haar programma over subsidies voor duurzame energie. Het beoogde doel is de vermindering van de CO2 uitstoot. De achterliggende gedachte is dat subsidie leidt tot een betere concurrentiepositie ten opzicht van fossiele energiebronnen.
 
-![](https://hiskeoverweg.files.wordpress.com/2021/02/subsidie.png?w=999)
+![](img/4.png)
 
 Vermindering van de CO2 uitstoot in een rechtlijnige aanpak
 
 De tekortkoming van deze aanpak is goed te zien in de En-ROADS Climate simulator. [Scenario link](https://en-roads.climateinteractive.org/scenario.html?p16=-0.03&p39=2&g0=29&g1=62&v=2.7.36) Als we groene energie subsidiëren gaat de prijs van energie omlaag (blauwe lijn, links) ten opzichte van de status quo (zwarte lijn, links). Hierdoor gaat het totale energieverbruik omhoog (rechts), en daarmee heeft deze maatregel _op zichzelf_ slechts een kleine invloed op de vermindering van CO2 uitstoot. Het reduceert de temperatuurstijging met slechts 0.2oC ten opzichte van de status quo.
 
-![](https://hiskeoverweg.files.wordpress.com/2021/02/screenshot-from-2021-02-21-15-00-05.png?w=1024)
+![](img/5.png)
 
 Het effect van een subsidie op duurzame energie in En-ROADS
 
@@ -61,7 +61,7 @@ Het effect van een subsidie op duurzame energie in En-ROADS
 
 We moeten dus verder kijken dan onze neus lang is. Maar zelfs als onze neus zo lang zou zijn als die van Pinocchio, dan zijn we er nog niet! We moeten ons mentale model aanpassen aan de dynamische wereld waarin we leven. Dat ziet er ongeveer zo uit:
 
-![](https://hiskeoverweg.files.wordpress.com/2021/02/feedback.png?w=422)
+![](img/6.png)
 
 Mentaal model met wisselwerking. Bron: Business Dynamics, John D. Sterman, figuur 1.4
 
@@ -69,7 +69,7 @@ Mentaal model met wisselwerking. Bron: Business Dynamics, John D. Sterman, figuu
 
 Ik heb twee versimpelde voorbeelden gegeven waarin de rechtlijnige aanpak tekort schiet. Wat de realiteit ingewikkelder maakt, is dat er ongelooflijk veel wisselwerkingen zijn, die ook nog eens veranderen in de loop van de tijd. Daarom is een model als En-ROADS, waarin een groot aantal wisselwerkingen in rekening worden gebracht, erg nuttig. Het systeemdiagram van het bruto nationaal product in En-ROADS ziet er bijvoorbeeld als volgt uit (en dat is nog maar een klein onderdeel van het gehele klimaatmodel!).
 
-![](https://hiskeoverweg.files.wordpress.com/2021/02/screenshot-from-2021-02-21-15-11-24.png?w=1024)
+![](img/7.png)
 
 Systeemdiagram van het bruto nationaal product. Bron: [En-ROADS reference guide](https://img.climateinteractive.org/wp-content/uploads/2021/01/En-ROADS_Reference_Guide_012221.pdf)
 
@@ -79,7 +79,7 @@ Gelukkig hoef je dit systeem niet te doorgronden om zelf met de simulator aan de
 
 Eén belangrijk aspect in een complex systeem is dat je als beleidsmaker goed moet nadenken wat voor gedrag je wilt belonen. We hebben al gezien dat een subsidie op duurzame energie op zichzelf vrij weinig effect heeft op vermindering van de CO2 uitstoot, doordat het energiegebruik stimuleert. Als we ons vermindering van uitstoot ten doel stellen, kunnen we het beste vermindering van uitstoot direct belonen. Met een significante belasting op CO2 uitstoot, bereiken we een veel groter effect dan met een subsidie op duurzame energie: de belasting reduceert de temperatuurstijging met 0.7oC ten opzichte van de status quo. [Scenario link](https://en-roads.climateinteractive.org/scenario.html?p39=124&g0=78&g1=29&v=2.7.36)
 
-![](https://hiskeoverweg.files.wordpress.com/2021/02/screenshot-from-2021-02-21-15-25-36.png?w=1024)
+![](img/8.png)
 
 Het effect van een signifcante belasting op CO2 uitstoot in En-ROADS - geleidelijk ingevoerd tussen 2020 en 2030.
 

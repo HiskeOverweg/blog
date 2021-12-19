@@ -17,7 +17,7 @@ Om het VVD beleid te vertalen naar maatregelen die in de simulator worden ingevo
 
 ##### De status quo
 
-![](https://hiskeoverweg.files.wordpress.com/2021/01/1-4.png?w=1024)
+![](img/1.png)
 
 In deze figuur zien we de huidige stand van zaken in de wereld ([scenario link](https://en-roads.climateinteractive.org/scenario.html?g0=2&g1=62&v=2.7.35)). Links het verwachte energieverbruik van de hele wereld in de komende 80 jaar. Rechts zien we de bijbehorende (equivalente) CO2 uitstoot. Als we niets doen, leidt dit tot een temperatuurstijging ten opzichte van de 19e eeuw van 3.6oC. [Het Parijsakkoord](https://unfccc.int/process-and-meetings/the-paris-agreement/the-paris-agreement) stelt dat een temperatuurstijging van ruim onder de 2oC en liefst onder de 1.5oC wenselijk is. Tijd voor actie dus![^1] Laten we het VVD programma eens onder de loep nemen.
 
@@ -29,7 +29,7 @@ De VVD schrijft: _In 2030 is het verboden om kolen te gebruiken om elektriciteit
 
 In En-ROADS heb ik dit als volgt ingevoerd: 100% reductie in kolengebruik in 2030, **2%** versnelling van het sluiten van kolencentrales en een kostenvermindering voor CCS onderzoek van **5%**. Het effect op kolengebruik en de globale CO2 uitstoot zie je hier. We voorkomen zo 0.4oC temperatuurstijging - geen slechte start![^2] [Scenario link](https://en-roads.climateinteractive.org/scenario.html?p196=100&p202=2030&p4=2&p6=5&g0=2&g1=62&v=2.7.35)
 
-![](https://hiskeoverweg.files.wordpress.com/2021/01/2.png?w=1024)
+![](img/2.png)
 
 ###### Gas
 
@@ -44,7 +44,7 @@ _Nieuwe kerncentrales in Nederland om op de lange termijn een betrouwbare en CO2
 
 Het [Groeifonds](https://www.rijksoverheid.nl/actueel/nieuws/2021/01/14/eerste-kamer-stemt-in-met-nationaal-groeifonds) bevat 20 miljard euro voor de komende vijf jaar. Op dit moment genereert [de kerncentrale in Borssele](https://www.rijksoverheid.nl/onderwerpen/duurzame-energie/opwekking-kernenergie) (de enige in Nederland) jaarlijks 3.3 miljoen MWh. Met een deel van het budget van het groeifonds zouden we dus een flinke subsidie op nucleaire energie van **0.07 $/kWh** kunnen instellen. Laten we bovendien aannemen dat het in 2040 lukt om een Thoriumreactor te ontwikkelen. Het effect op de temperatuur is slechts 0.1oC. Hier zijn twee verklaringen voor. Ten eerste duurt het ongeveer 10 jaar om nieuwe infrastructuur voor kerncentrales op te zetten. Ten tweede concurreert goedkope nucleaire energie op de markt met hernieuwbare energiebronnen. In ons huidige scenario leidt meer gebruik van kernenergie tot minder gebruik van hernieuwbare energiebronnen, terwijl ons doel juist was om fossiel brandstofgebruik te verminderen.[^3]
 
-![](https://hiskeoverweg.files.wordpress.com/2021/01/3.png?w=1024)
+![](img/3.png)
 
 ###### Waterstof
 
@@ -59,7 +59,7 @@ te simuleren:
 
 Hiermee komen we weer 0.1oC dichter bij ons doel. [Scenario link](https://en-roads.climateinteractive.org/scenario.html?p210=1&p196=100&p202=2030&p4=2&p6=5&p21=10&p30=-0.07&p36=2040&p53=1&p55=1&g0=2&g1=62&v=2.7.35)
 
-![](https://hiskeoverweg.files.wordpress.com/2021/01/4.png?w=1024)
+![](img/4.png)
 
 ###### Hernieuwbare energie
 
@@ -67,7 +67,7 @@ _Substantiële uitbreiding van het aandeel duurzame energie._
 
 Dit is lastig te kwantificeren zonder verdere uitleg van de strategie. Wat mij betreft kan het verkiezingsprogramma op dit punt dus wel wat verduidelijking gebruiken. Laten we aannemen dat het gaat om een subsidie op duurzame energie van **0.02 $/kWh** (een dergelijk effect bereik je natuurlijk ook indirect door infrastructuur voor energieopwekking te financieren). **0.02 $/kWh** is iets meer dan 10% van [de prijs die de consument voor een kWh betaalt](https://www.consumentenbond.nl/energie-vergelijken/kwh-prijs). De opwarming van de aarde neemt met 0.1oC af. We zien een toename in het totale energieverbruik, omdat energie op deze manier goedkoper wordt.[^4] [Scenario link](https://en-roads.climateinteractive.org/scenario.html?p210=1&p196=100&p202=2030&p4=2&p6=5&p16=-0.02&p21=10&p30=-0.07&p36=2040&p53=1&p55=1&g0=2&g1=62&v=2.7.35)
 
-![](https://hiskeoverweg.files.wordpress.com/2021/01/5.png?w=1024)
+![](img/5.png)
 
 ###### Biomassa
 
@@ -75,13 +75,13 @@ _Stopzetten van nieuwe subsidies voor het verbranden van biomassa uit hout voor 
 
 Er is geen mogelijkheid in En-ROADS om de normen voor biomassacentrales aan te passen, maar laten we zeggen dat dit een vergelijkbaar effect heeft met een heffing op biomassa van **$10 per vat olie-equivalent** (fun fact: in het Engels heet deze eenheid "boe" - barrel of oil equivalent). Verder leidt deze maatregel tot verminderde ontbossing, laten we zeggen met **2% per jaar**. De totale hoeveelheid gebruikte bio-energie neemt daarmee op de lange termijn enigszins af, maar dit is niet genoeg om significante temperatuurverandering te bewerkstelligen. [Scenario link](https://en-roads.climateinteractive.org/scenario.html?p210=1&p196=100&p202=2030&p4=2&p6=5&p16=-0.02&p21=10&p23=10&p30=-0.07&p36=2040&p53=1&p55=1&p57=-2&g0=2&g1=62&v=2.7.35)
 
-![](https://hiskeoverweg.files.wordpress.com/2021/01/6.png?w=1024)
+![](img/6.png)
 
 ###### Elektrische auto's
 
 Tja, de VVD zou de VVD niet zijn als ze niet minstens een halve bladzij over auto's zouden uitweiden (en opmerken dat benzinemotoren wel heel stoer klinken). Gelukkig gaat het wel over elektrificering van auto's. Laten we uitgaan van een elektrificering[^5] van ongeveer **1%** van de gehele vloot per jaar. Dit komt bovenop de auto's die we al met waterstof van brandstof hebben voorzien. De hoeveelheid olie die wordt gebruikt neemt enigszins af, maar niet genoeg voor een significante verandering van de temperatuur. [Scenario link](https://en-roads.climateinteractive.org/scenario.html?p210=1&p196=100&p202=2030&p4=2&p6=5&p16=-0.02&p21=10&p23=10&p30=-0.07&p36=2040&p53=2&p55=1&g0=2&g1=62&v=2.7.35)
 
-![](https://hiskeoverweg.files.wordpress.com/2021/01/7.png?w=1024)
+![](img/7.png)
 
 ###### CO2 heffing
 
@@ -90,7 +90,7 @@ _Een lagere energiebelasting voor huishoudens en kleinverbruikers. (...) Invoere
 Op Europees niveau is ongeveer [26% van het energieverbruik industrieel](https://www.sciencedirect.com/topics/engineering/industrial-energy-consumption). De huidige prijs die de industrie in Europa betaalt voor uitstoot, is [€30 per ton](https://www.reuters.com/article/eu-carbon-idUSL5N2EK1E6). Laten we aannemen dat de VVD van plan is deze prijs te verhogen naar €50 per ton. Aangezien het om een kwart van de totale energie gaat, is dit effectief een prijs van €12.5 per ton. Bovendien wil de VVD energie voor huishoudens en het MKB goedkoper maken. Laten we zeggen dat we effectief
 een heffing van **€8 per ton** overhouden. We zijn weer 0.1oC dichter bij ons doel, het aandeel hernieuwbare energie iets groter wordt. [Scenario link](https://en-roads.climateinteractive.org/scenario.html?p210=1&p196=100&p202=2030&p4=2&p6=5&p16=-0.02&p21=10&p23=10&p30=-0.07&p36=2040&p39=8&p53=2&p55=1&g0=2&g1=62&v=2.7.35)
 
-![](https://hiskeoverweg.files.wordpress.com/2021/01/8.png?w=1024)
+![](img/8.png)
 
 ###### Verduurzaming gebouwen
 
@@ -98,7 +98,7 @@ _Toegang van het (kleine) mkb tot het warmtefonds dat nu al huiseigenaren financ
 
 Ik voer dit in En-ROADS in als verduurzaming van **2%** van alle gebouwen per jaar. Met deze maatregel neemt de opwarming van de aarde weer met 0.1oC af. [Scenario link](https://en-roads.climateinteractive.org/scenario.html?p210=1&p196=100&p202=2030&p4=2&p6=5&p16=-0.02&p21=10&p23=10&p30=-0.07&p36=2040&p39=8&p47=2&p53=2&p55=1&g0=2&g1=62&v=2.7.35)
 
-![](https://hiskeoverweg.files.wordpress.com/2021/01/9.png?w=1024)
+![](img/9.png)
 
 ###### Recycling
 
@@ -106,7 +106,7 @@ _Verduurzaming van onze economie door het bevorderen van hoogwaardige recycling,
 
 Dit leidt tot een efficiënter energiegebruik in de industrie (laten we zeggen met **1%** per jaar) én tot een kleinere uitstoot van afval (ik heb met **2%** per jaar gerekend). Langzaam maar gestaag komen we dichter bij ons doel, weer 0.1oC eraf. [Scenario link](https://en-roads.climateinteractive.org/scenario.html?p209=1&p210=1&p196=100&p202=2030&p4=2&p6=5&p16=-0.02&p21=10&p23=10&p30=-0.07&p36=2040&p39=8&p47=3&p53=2&p55=1&p60=-2&g0=2&g1=62&v=2.7.35)
 
-![](https://hiskeoverweg.files.wordpress.com/2021/01/10.png?w=1024)
+![](img/10.png)
 
 ###### Methaan en andere broeikasgassen
 
@@ -114,7 +114,7 @@ _Op Europees niveau geleidelijk stoppen met het gebruik van niet-essentiële, ge
 
 PFAS vallen onder de zogenaamde [PFCs](https://www.epa.gov/pfas/what-are-pfcs-and-how-do-they-relate-and-polyfluoroalkyl-substances-pfass). Laten we uitgaan van een vermindering van het gebruik van methaan, stikstofoxide, PFCs en HFCs van **10%**, en een verminderde uitstoot van de landbouw van **10%**. Dit brengt ons weer 0.1oC dichter bij het Parijsakkoord. [Scenario link](https://en-roads.climateinteractive.org/scenario.html?p209=1&p210=1&p196=100&p202=2030&p4=2&p6=5&p16=-0.02&p21=10&p23=10&p30=-0.07&p36=2040&p39=8&p47=3&p53=2&p55=1&p60=-12&p61=-10&g0=2&g1=62&v=2.7.35)
 
-![](https://hiskeoverweg.files.wordpress.com/2021/01/11.png?w=1024)
+![](img/11.png)
 
 ###### Verduurzaming mobiliteit en transport
 
@@ -122,7 +122,7 @@ In het VVD programma wordt een reeks maatregelen voor duurzamer transport voorge
 
 Toename van de efficiëntie van voertuigen met **2% per jaar** (ten opzichte van de huidige toename van 0.5% per jaar) en een heffing op kerosine van **$10 per vat olie-equivalent** zou ons weer 0.1oC dichter bij ons doel brengen. Qua efficiëntie van vliegroutes is er zeker voor de korte vluchten weinig te winnen, omdat de meeste energie vrijkomt bij [het opstijgen en landen](https://www.natuurenmilieu.nl/themas/mobiliteit/projecten-mobiliteit/luchtvaart/het-probleem/). Dit lijken me essentiële onderdelen van een vlucht. [Scenario link](https://en-roads.climateinteractive.org/scenario.html?p209=1&p210=1&p196=100&p202=2030&p4=2&p6=5&p7=10&p16=-0.02&p21=10&p23=10&p30=-0.07&p36=2040&p39=8&p47=3&p50=2.5&p53=2&p55=1&p60=-12&p61=-10&g0=2&g1=62&v=2.7.35)
 
-![](https://hiskeoverweg.files.wordpress.com/2021/01/12.png?w=1024)
+![](img/12.png)
 
 ###### Behoud gasnetwerken
 
@@ -136,7 +136,7 @@ _Aanplanten van nieuwe hectares bos binnen natuurnetwerken._
 
 [54 %](https://www.cbs.nl/nl-nl/nieuws/2016/08/minder-landbouw-meer-natuur) van de Nederlandse grond is landbouwgrond. Laten we aannemen dat we **1%** van het landoppervlak herbebossen (dat hoeft natuurlijk niet per se ten koste van landbouwgrond te gaan, we zouden bijvoorbeeld ook voor een IJsselmoerasbos kunnen kiezen). Als we dit wereldwijd willen opschalen, komen we voor grote uitdagingen te staan in gebieden met onregelmatige neerslag en of met toenemende behoefte aan landbouwgrond of met Jair Bolsonaro als president. Om een idee van de omvang van deze onderneming te geven, 1% op wereldwijde schaal betekent bebossing van ongeveer 2 keer India![^6] Helaas is bomen planten een beetje een hype, en is de uitstoot van de energiesector vele malen groten dan wat we kunnen bijplanten. Deze megalomane onderneming brengt ons slechts 0.1oC dichter bij ons doel. [Scenario link](https://en-roads.climateinteractive.org/scenario.html?p209=1&p210=1&p196=100&p202=2030&p4=2&p6=5&p7=10&p16=-0.02&p21=10&p23=10&p30=-0.07&p36=2040&p39=8&p47=3&p50=2.5&p53=2&p55=1&p60=-12&p61=-10&p65=100&g0=2&g1=62&v=2.7.35)
 
-![](https://hiskeoverweg.files.wordpress.com/2021/01/13.png?w=1024)
+![](img/13.png)
 
 ###### Innovatie
 
@@ -144,7 +144,7 @@ _Zo versterken we ook innovatieve regionale centra zoals Brainport Eindhoven en 
 
 Innovaties in de landbouw (denk ook aan ontwikkeling van meer vleesvervangers en eventueel kweekvlees) zouden kunnen leiden tot een lagere uitstoot van methaan en stikstofoxide, bijvoorbeeld een reductie van **5%**. Daarnaast zouden we technologische innovaties kunnen doen op het gebied van koolstofverwijdering (denk aan [biochar](https://www.american.edu/sis/centers/carbon-removal/fact-sheet-biochar.cfm), [regeneratieve landbouw](https://www.american.edu/sis/centers/carbon-removal/fact-sheet-soil-carbon-sequestration.cfm)[^7] en [mineralisatie](https://www.american.edu/sis/centers/carbon-removal/fact-sheet-enhanced-mineralization.cfm)). Laten we ervan uitgaan dat deze technologieën allemaal **33%** van hun geschatte potentiaal bereiken (ze bestaan ten slotte nog niet op grote schaal!). Dit doet de opwarming van de aarde met nog 0.2oC afnemen. [Scenario link](https://en-roads.climateinteractive.org/scenario.html?p208=2&p209=1&p210=1&p196=100&p202=2030&p4=2&p6=5&p7=10&p16=-0.02&p21=10&p23=10&p30=-0.07&p36=2040&p39=8&p47=3&p50=2.5&p53=2&p55=1&p57=-2&p60=-17&p61=-10&p65=100&p72=33&p74=33&p76=33&p77=2030&g0=2&g1=62&v=2.7.35)
 
-![](https://hiskeoverweg.files.wordpress.com/2021/01/1-3.png?w=1024)
+![](img/14.png)
 
 ##### Conclusie
 

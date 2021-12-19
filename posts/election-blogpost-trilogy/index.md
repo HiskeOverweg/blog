@@ -15,6 +15,6 @@ Part 2: [Dutch climate policy and the importance of systems thinking](/posts/dut
 
 Part 3: [Dutch climate policy - suggestions for improvement](/posts/dutch-climate-policy-suggestions-for-improvement/)
 
-![](https://hiskeoverweg.files.wordpress.com/2021/02/screenshot-from-2021-02-28-22-32-50-1.png?w=1024)
+![](img/enroads.png)
 
 The En-ROADS climate simulator

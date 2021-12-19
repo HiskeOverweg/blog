@@ -7,7 +7,7 @@ layout: dutch.md
 
 Eergisteren verscheen er in het NRC [een artikel](https://www.nrc.nl/nieuws/2021/01/28/elke-bank-moet-een-carbon-bank-worden-en-rabo-wil-de-eerste-zijn-a4029689) over de "carbon banking" plannen van Rabobank en Microsoft. De volgende figuur vat de plannen samen: het doel is om bomen te planten op een gebied van 15 miljoen hectare en daarmee in 2025 de uitstoot van 150 Mton CO2 (volgens het artikel gelijk aan 0.5% van de jaarlijkse wereldwijde uitstoot) te compenseren.
 
-![](https://hiskeoverweg.files.wordpress.com/2021/01/image952.png?w=1024)
+![](img/1.png)
 
 Het plan van Rabobank en Microsoft
 
@@ -17,13 +17,13 @@ Laten we eens kijken of we die getallen kunnen reproduceren. Ik gebruik hiervoor
 
 Als we in En-ROADs kijken naar de wereldwijde CO2 uitstoot, zitten we vandaag de dag op 60 Gton per jaar. 0.5% daarvan is dus 300 Mton en niet 150 Mton. Maar goed, ik heb ook een jaartje sterrenkunde gestudeerd, dus een verschil van een factor twee, [daar lig ik nou niet echt van wakker](https://www.explainxkcd.com/wiki/index.php/2205:_Types_of_Approximation).
 
-![](https://hiskeoverweg.files.wordpress.com/2021/01/business_as_usual.png?w=969)
+![](img/2.png)
 
 ##### Bebossing in En-ROADS
 
 De maximale hoeveelheid land die wereldwijd beschikbaar zou kunnen zijn om bomen te planten is ongeveer [700 miljoen hectare](https://science.sciencemag.org/content/365/6448/76). Dan hebben we het over twee keer het oppervlak van India. De 15 miljoen hectare waar Rabobank en Microsoft over praten, is 2% daarvan. Laten we optimistisch zijn en aannemen dat het lukt om al de benodigde bomen dit jaar nog te planten. In de onderstaande grafiek, die netto CO2 verwijdering weergeeft, zien we een héél klein groen lijntje ontstaan (bovenop de horizontale as, het is lastig te zien). De hoeveelheid CO2 die in 2025 op deze manier wordt verwijdert is 4 Mton.
 
-![](https://hiskeoverweg.files.wordpress.com/2021/01/bos.png?w=684)
+![](img/3.png)
 
 CO2 verwijdering wanneer 15 miljoen hectare in 2021 wordt bebost
 
@@ -31,7 +31,7 @@ CO2 verwijdering wanneer 15 miljoen hectare in 2021 wordt bebost
 
 Laten we een onrealistisch gedachte-experiment doen. Stel, we zouden in 2021 bomen planten op een oppervlak ter grootte van twee keer India, dan zouden we de 150 Mton die Microsoft en Rabobank noemen nét halen.[^2]
 
-![](https://hiskeoverweg.files.wordpress.com/2021/01/bos2.png?w=691)
+![](img/4.png)
 
 CO2 verwijdering wanneer we in 2021 een oppervlak ter grootte van twee keer India bebossen.
 
@@ -39,7 +39,7 @@ CO2 verwijdering wanneer we in 2021 een oppervlak ter grootte van twee keer Indi
 
 In de plannen van Microsoft en Rabobank wordt gesproken over agroforestry. Deze teeltwijze, waarbij bomen worden gecombineerd met landbouw op hetzelfde perceel, heeft nog een belangrijk mechanisme om CO2 uit de lucht te verwijderen: het verbetert de bodemkwaliteit, wat er toe leidt dat de bodem meer koolstof kan vastleggen.[^3] Komen we op die manier dichter bij de 150 Mton die Microsoft en Rabobank zich ten doel stellen? Het wereldwijde landbouwoppervlak bedraagt [5 miljard ha](http://www.fao.org/sustainability/news/detail/en/c/1274219/). In dit project hebben we het dus over 3% van dat oppervlak. Laten we eens kijken waar koolstofvastlegging op die schaal toe leidt in En-ROADS. De extra koolstofvastlegging bedraagt 20 Mton (helaas kan ik de schaal van de verticale as niet aanpassen):
 
-![](https://hiskeoverweg.files.wordpress.com/2021/01/soil-2.png?w=679)
+![](img/5.png)
 
 CO2 verwijdering door koolstofvastlegging in de bodem
 
@@ -47,7 +47,7 @@ CO2 verwijdering door koolstofvastlegging in de bodem
 
 We hebben 24 Mton CO2 verwijdering aannemelijk gemaakt met ons model. We missen dus nog een significant deel van 150 Mton waar Rabobank en Microsoft van spreken. Zijn onze aannames wel correct? Met de standaard instelling in En-ROADS, duurt het 80 jaar totdat een _gemiddelde_ boom _in een bos_ volgroeid is. De bomen waar we het hier over hebben staan op akkers ten zuiden van de Sahara. Ze vangen daarom meer zonlicht dan de gemiddelde boom, en groeien wellicht sneller. Aan de andere kant, ze groeien vaak in droge gebieden met slechte bodemkwaliteit, dus ze zouden ook lángzamer kunnen groeien (wie kan het me vertellen?). Laten we kijken wat er gebeurt als bomen sneller zouden groeien. We passen de instelling in En-ROADS aan zodat het 20 jaar duurt voor bomen volgroeid zijn, in plaats van 80 jaar. Met deze instelling behalen we het gewenste doel.[^4]
 
-![](https://hiskeoverweg.files.wordpress.com/2021/01/fast_trees-2.png?w=673)
+![](img/6.png)
 
 CO2 verwijdering indien bomen in 20 jaar volgroeid zijn
 

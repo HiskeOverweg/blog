@@ -23,7 +23,7 @@ Why wouldn't you encourage SMEs and individuals to save energy? This VVD proposa
 
 If you truly believe in a free market, you can in principle remove all measures the VVD proposes in the energy sector, and instead reach the same result with a carbon tax. I adapted [the end scenario from my previous blogpost](https://en-roads.climateinteractive.org/scenario.html?p208=2&p209=1&p210=1&p196=100&p202=2030&p4=2&p6=5&p7=10&p16=-0.02&p21=10&p23=10&p30=-0.07&p36=2040&p39=8&p47=3&p50=2.5&p53=2&p55=1&p57=-2&p60=-17&p61=-10&p65=100&p72=33&p74=33&p76=33&p77=2030&v=2.7.36) to demonstrate this. I have reset all policy changes the VVD proposed in the energy sector and instead [simulated a carbon tax of 110$/ton CO2](https://en-roads.climateinteractive.org/scenario.html?p208=2&p209=1&p39=110&p47=3&p50=2.5&p53=2&p55=1&p57=-2&p60=-17&p61=-10&p65=100&p72=33&p74=33&p76=33&p77=2030&v=2.7.36). It has the same effect in terms of temperature increase by 2100.
 
-![](https://hiskeoverweg.files.wordpress.com/2021/02/screenshot-from-2021-02-27-17-35-14.png?w=1024)
+![](img/1.png)
 
 A carbon tax of110$/ton CO2 has the same effect on global temperature as all measures in the energy sector which the VVD proposed.
 
@@ -77,7 +77,7 @@ Let's return to the VVD statement about 'good investments' : the effective altru
 
 The potential of development aid can be explored using the En-ROADS climate simulator. Better education of girls, better education on family planning and a better offer of contraception can lead to reduced population growth.[^3] On top of that farmers in developing countries can profit from education on sustainable farming practices, such as agroforestry. These are again multisolving solutions, which do not only tackle climate change, but also lead to emancipation, income guarantees for farmers and reduced migratory flows. This approach can bring us another 0.1oC closer to the Paris agreement. [Scenario link](https://en-roads.climateinteractive.org/scenario.html?p208=2&p209=1&p210=1&p196=100&p202=2030&p4=2&p6=5&p7=10&p16=-0.02&p21=10&p23=10&p30=-0.07&p36=2040&p39=8&p47=3&p50=2.5&p53=2&p55=1&p57=-2&p60=-17&p61=-10&p63=-1.0000&p65=100&p72=33&p74=33&p76=100&p77=2030&g0=2&g1=62&v=2.7.36)
 
-![](https://hiskeoverweg.files.wordpress.com/2021/02/screenshot-from-2021-02-27-17-43-13.png?w=1024)
+![](img/2.png)
 
 Development aid by education on family planning and sustainable agricultural practices in En-ROADS
 

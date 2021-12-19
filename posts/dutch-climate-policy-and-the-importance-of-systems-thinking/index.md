@@ -19,7 +19,7 @@ I estimated that applying the VVD policy on a worldwide scale would lead to a ri
 
 There is no magic potion against climate change. As we saw in the thought experiment, many interventions are needed to meet the targets of the Paris Agreement. The En-ROADS simulator shows that we can still meet our target in a number of ways however, as long as we act now. [Here](https://en-roads.climateinteractive.org/scenario.html?v=2.7.36) is the simulator, please try for yourself!
 
-![](https://hiskeoverweg.files.wordpress.com/2021/02/potion_en-1.png?w=300)
+![](img/1.png)
 
 Too good to be true, unfortunately
 
@@ -31,7 +31,7 @@ Admittedly every little bit helps [^1] but it is important to understand the rel
 
 When considering policy measures to tackle climate change, it is essential to take into account the entire system in which these measures are applied. We tend to think in simple event-based structures, as sketched below.
 
-![](https://hiskeoverweg.files.wordpress.com/2021/02/event_based.png?w=878)
+![](img/2.png)
 
 Event-based view of the world. Source: Business Dynamics, John D. Sterman, figure 1.3
 
@@ -41,7 +41,7 @@ The tricky aspect of complex systems which we tend to overlook is that these sys
 
 According to the VVD we are in need of more roads in the Netherlands. This conclusion is based on the (pre-corona?) observation that our roads are too crowded, which leads to undesirably long journey times and traffic jams. The system will respond to the solution of creating more roads however: people will drive more, which in the long run potentially leads to even more traffic jams. This is a rather simple side effect which is overlooked in the event-based view.
 
-![](https://hiskeoverweg.files.wordpress.com/2021/02/traffic.png?w=1010)
+![](img/3.png)
 
 Fighting traffic jams in an event-based view
 
@@ -49,13 +49,13 @@ Fighting traffic jams in an event-based view
 
 The VVD mentions subsidies for renewable energy in its electoral programme. The goal is redution of CO2 emission. The reasoning behind this measure is that subsidy of renewables will lead to an improved competitiveness with fossil fuels.
 
-![](https://hiskeoverweg.files.wordpress.com/2021/02/subsidy-1.png?w=978)
+![](img/4.png)
 
 Reduction of CO2 emisison in an event-based view
 
 The shortcoming of this approach is easily visible in the En-ROADS Climate simulator. [Scenario link](https://en-roads.climateinteractive.org/scenario.html?p16=-0.03&p39=2&g0=29&g1=62&v=2.7.36) Subsidizing renewables makes energy cheaper (blue line, left hand graph) compared to the baseline scenario (black line, left hand graph). This leads to increased energy consumption (right), which is why this measure _on its own_ only has a small influence on reduction of emissions. The temperature in the year 2100 will only be 0.2oC lower than in the baseline scenario.
 
-![](https://hiskeoverweg.files.wordpress.com/2021/02/screenshot-from-2021-02-21-15-00-05.png?w=1024)
+![](img/5.png)
 
 The effect of subsidizing renewables in En-ROADS
 
@@ -63,7 +63,7 @@ The effect of subsidizing renewables in En-ROADS
 
 It is evident we should see beyond the end of our nose. But even if our nose would be as long as Pinocchio's, that wouldn't suffice! Our mental model needs to be adapted to the dynamic world in which we live. It should look more like this:
 
-![](https://hiskeoverweg.files.wordpress.com/2021/02/feedback_en.png?w=456)
+![](img/6.png)
 
 Mental model of the feedback view. Source: Business Dynamics, John D. Sterman, figure 1.4
 
@@ -71,7 +71,7 @@ Mental model of the feedback view. Source: Business Dynamics, John D. Sterman, f
 
 I gave two simple examples to demonstrate the shortcomings of the event-based view. What makes reality even more complicated is the interaction of many feedback mechanisms, which even change in time. This is why a model like En-ROADS, in which many feedback loops are accounted for, is extremely convenient. As an example, the systems diagram of GDP in En-ROADS looks as follows (and this is only a tiny part of the entire climate model!).
 
-![](https://hiskeoverweg.files.wordpress.com/2021/02/screenshot-from-2021-02-21-15-11-24.png?w=1024)
+![](img/7.png)
 
 System diagram of GDP. Source: [En-ROADS reference guide](https://img.climateinteractive.org/wp-content/uploads/2021/01/En-ROADS_Reference_Guide_012221.pdf)
 
@@ -81,7 +81,7 @@ Fortunately you don't need to go into the details of all these diagrams to use E
 
 One important aspect of a complex system is that policy makers need to consider carefully which behavior to reward. We've seen already that subsidizing renewables on its own has only a moderate effect on reducing emissions, because it stimulates energy use. If our goal is to reduce emissions, the best thing we can do is to directly reward emission reduction. This can be done with a significant carbon tax, which has more impact on temperature than subsidizing renewables: the tax can reduce the increase in temperature by 0.7oC compared to the baseline scenario. [Scenario link](https://en-roads.climateinteractive.org/scenario.html?p39=124&g0=78&g1=29&v=2.7.36)
 
-![](https://hiskeoverweg.files.wordpress.com/2021/02/screenshot-from-2021-02-21-15-25-36.png?w=1024)
+![](img/8.png)
 
 The effect of a significant carbon tax in En-ROADS, introduced gradually between 2020 and 2030.
 

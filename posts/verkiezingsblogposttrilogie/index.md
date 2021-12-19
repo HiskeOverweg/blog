@@ -13,6 +13,6 @@ Deel 2: [Het VVD klimaatbeleid en het belang van systeemdenken](/posts/het-vvd-k
 
 Deel 3: [Het VVD klimaatbeleid - suggesties voor verbetering](/posts/het-vvd-klimaatbeleid-suggesties-voor-verbetering/)
 
-![](https://hiskeoverweg.files.wordpress.com/2021/02/screenshot-from-2021-02-28-22-32-50-1.png?w=1024)
+![](img/enroads.png)
 
 De En-ROADS climate simulator
