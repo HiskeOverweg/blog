@@ -5,11 +5,11 @@ tags: post
 layout: english.md
 ---
 
-You can also read this post [in Dutch](https://his.ke/2021/02/21/het-vvd-klimaatbeleid-en-het-belang-van-systeemdenken/).
+You can also read this post [in Dutch](/posts/het-vvd-klimaatbeleid-en-het-belang-van-systeemdenken/).
 
 ##### The experiment
 
-[In a previous blogpost](https://his.ke/2021/01/25/climate-policy-of-the-dutch-prime-ministers-party-vvd/) I conducted a thought experiment. We imagined what would happen if the whole world would implement the policy from the [2021 electoral programme concept](https://www.vvd.nl/content/uploads/2020/11/Verkiezingsprogramma-concept-VVD-2021-2025.pdf) of the Dutch prime minister's party. What would be the consequences for the climate? Is the VVD ambitious enough to meet the targets in the Paris Agreement?
+[In a previous blogpost](/posts/climate-policy-of-the-dutch-prime-ministers-party-vvd/) I conducted a thought experiment. We imagined what would happen if the whole world would implement the policy from the [2021 electoral programme concept](https://www.vvd.nl/content/uploads/2020/11/Verkiezingsprogramma-concept-VVD-2021-2025.pdf) of the Dutch prime minister's party. What would be the consequences for the climate? Is the VVD ambitious enough to meet the targets in the Paris Agreement?
 
 I tried to answer these questions using [the En-ROADS climate simulator](https://en-roads.climateinteractive.org/scenario.html?v=2.7.35), made by MIT Sloan School of Management and the thinktank Climate Interactive. The simulator has been calibrated by 6 "integrated assessment models", the best climate models available in science.
 

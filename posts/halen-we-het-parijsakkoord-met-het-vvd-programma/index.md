@@ -151,7 +151,7 @@ Innovaties in de landbouw (denk ook aan ontwikkeling van meer vleesvervangers en
 Ik schat dat het door de VVD voorgestelde beleid, zou leiden tot een temperatuurstijging van ongeveer 2.2oC (houd wel de [disclaimer]("#h5") in je achterhoofd!). Dit zou desastreuze gevolgen hebben.[\[8\]]("#footnote9") Toch zijn er meerdere redenen voor voorzichtig optimisme:
 
 - De VVD regeert meestal met partijen die vooruitstrevender zijn op klimaatgebied
-- Het gaat hier om een concept-verkiezingsprogramma, er is dus nog ruimte voor verbetering (hier schrijf ik binnenkort meer over in [een nieuwe blogpost](https://his.ke/2021/02/28/het-vvd-klimaatbeleid-suggesties-voor-verbetering/))
+- Het gaat hier om een concept-verkiezingsprogramma, er is dus nog ruimte voor verbetering (hier schrijf ik binnenkort meer over in [een nieuwe blogpost](/posts/het-vvd-klimaatbeleid-suggesties-voor-verbetering/))
 - Als we zo veel mogelijk mensen laten zien wat er nodig is op klimaatgebied (bijvoorbeeld met de (gratis!) [En-ROADS climate workshop](https://www.climateinteractive.org/tools/en-roads/the-en-roads-climate-workshop/)), komt er wellicht meer maatschappelijk draagvlak voor een progressiever klimaatbeleid.
 
 ##### Feedback

@@ -7,7 +7,7 @@ layout: dutch.md
 
 ##### Het experiment
 
-[In een vorige blogpost](https://his.ke/2021/01/24/halen-we-het-parijsakkoord-met-het-vvd-programma/) schreef ik over een gedachte-experiment. Stel dat de hele wereld het beleid uit [het concept-verkiezingsprogramma](https://www.vvd.nl/content/uploads/2020/11/Verkiezingsprogramma-concept-VVD-2021-2025.pdf) van de VVD van 2021 zou uitvoeren. Wat zouden dan de gevolgen zijn voor het klimaat? Zijn de ambities van de VVD voldoende om onze beloftes uit het Parijsakkoord waar te maken?
+[In een vorige blogpost](/posts/halen-we-het-parijsakkoord-met-het-vvd-programma/) schreef ik over een gedachte-experiment. Stel dat de hele wereld het beleid uit [het concept-verkiezingsprogramma](https://www.vvd.nl/content/uploads/2020/11/Verkiezingsprogramma-concept-VVD-2021-2025.pdf) van de VVD van 2021 zou uitvoeren. Wat zouden dan de gevolgen zijn voor het klimaat? Zijn de ambities van de VVD voldoende om onze beloftes uit het Parijsakkoord waar te maken?
 
 Deze vraag probeerde ik te beantwoorden met behulp van [de En-ROADS climate simulator](https://en-roads.climateinteractive.org/scenario.html?v=2.7.35), gemaakt door MIT Sloan School of Management en de denktank Climate Interactive. De simulator is gecalibreerd aan de hand van 6 "integrated assessment models", dit zijn de beste klimaatmodellen die er in de wetenschap ontwikkeld zijn.
 

@@ -5,7 +5,7 @@ tags: post
 layout: english.md
 ---
 
-You can also read this post [in Dutch](http://his.ke/2021/01/24/halen-we-het-parijsakkoord-met-het-vvd-programma/)
+You can also read this post [in Dutch](/posts/halen-we-het-parijsakkoord-met-het-vvd-programma)
 
 ##### The experiment
 
@@ -148,7 +148,7 @@ Innovations in agriculture (which could also be meat substitutes or in vitro mea
 I conclude that the VVD policy would lead to a temperature increase of 2.2oC (please mind the [disclaimer]("#h5")!). This would have disastrous effects[\[8\]]("#footnote9"), but I see some reasons for cautious optimism:
 
 - The VVD usually rules the country together with more progressive parties.
-- This is a _concept_ electoral programme, so there is room for improvement (I will write about it soon in [a new blogpost](https://his.ke/2021/02/28/dutch-climate-policy-suggestions-for-improvement/))
+- This is a _concept_ electoral programme, so there is room for improvement (I will write about it soon in [a new blogpost](/posts/dutch-climate-policy-suggestions-for-improvement/))
 - If we show people what is necessary in terms of climate action, we can create societal acceptance for a more progressive climate policy (for example using the (free!) [En-ROADS climate workshop](https://www.climateinteractive.org/tools/en-roads/the-en-roads-climate-workshop/))
 
 ##### Feedback
