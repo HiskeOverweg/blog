@@ -25,7 +25,7 @@ Too good to be true, unfortunately
 
 ##### Orders of magnitude
 
-Admittedly every little bit helps [\[1\]](#footnote1_a), but it is important to understand the relative impact of different measures. [\[2\]](https://hiskeoverweg.wordpress.com/wp-admin/post.php?post=201&action=edit#footnote2_a) How does the effect of a carbon tax compare to the effect of massive afforestation, for instance? You can try it out yourself using the [En-ROADS simulator](https://en-roads.climateinteractive.org/scenario.html?p39=2&v=2.7.36). Orders of magnitude also matter to understand the potential impact of interventions. Take the example of recycling frying fat in biofuel. It is a good way to recycle residues, but in 2011 [estimates](https://www.nrc.nl/nieuws/2011/01/29/biodieselproblemen-11992569-a1326913) indicated that we can collect about 8 L per person per year, so we'd have to eat many more French fries (or Mars bars, if you're Scottish) to replace a significant amount of the gasoline and kerosene we use.
+Admittedly every little bit helps [^1] but it is important to understand the relative impact of different measures. [^2] How does the effect of a carbon tax compare to the effect of massive afforestation, for instance? You can try it out yourself using the [En-ROADS simulator](https://en-roads.climateinteractive.org/scenario.html?p39=2&v=2.7.36). Orders of magnitude also matter to understand the potential impact of interventions. Take the example of recycling frying fat in biofuel. It is a good way to recycle residues, but in 2011 [estimates](https://www.nrc.nl/nieuws/2011/01/29/biodieselproblemen-11992569-a1326913) indicated that we can collect about 8 L per person per year, so we'd have to eat many more French fries (or Mars bars, if you're Scottish) to replace a significant amount of the gasoline and kerosene we use.
 
 ##### The importance of systems thinking
 
@@ -107,6 +107,6 @@ Climate Interactive offers an [introduction in systems thinking to tackle climat
 
 Curious about the En-ROADS climate workshop? Participate in the workshop [on the En-ROADS website](https://www.climateinteractive.org/get-involved/webinars/) (mostly in English), watch a [long](https://www.youtube.com/watch?v=R9W_KEXNzm4&t=0s) or a [short](https://www.youtube.com/watch?v=u5mrnkOJdso) workshop recording on YouTube or contact an [En-ROADS climate ambassador](https://www.climateinteractive.org/tools/en-roads/climate-ambassadors/) for an interactive workshop in your preferred language.
 
-\[1\] [In this essay](https://thecorrespondent.com/796/yes-its-all-the-fault-of-big-oil-facebook-and-the-system-but-lets-talk-about-you-this-time/105316520056-9134847d) Rutger Bregman explains clearly why small scale individual action also matters.
+[^1]: [In this essay](https://thecorrespondent.com/796/yes-its-all-the-fault-of-big-oil-facebook-and-the-system-but-lets-talk-about-you-this-time/105316520056-9134847d) Rutger Bregman explains clearly why small scale individual action also matters.
 
-\[2\] David MacKay wrote an informative book about this. It is [freely available](https://www.withouthotair.com/).
+[^2]: David MacKay wrote an informative book about this. It is [freely available](https://www.withouthotair.com/).

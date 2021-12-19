@@ -11,7 +11,7 @@ Eergisteren verscheen er in het NRC [een artikel](https://www.nrc.nl/nieuws/2021
 
 Het plan van Rabobank en Microsoft
 
-Laten we eens kijken of we die getallen kunnen reproduceren. Ik gebruik hiervoor de En-ROADS climate simulator (ontwikkeld door MIT Sloan School of Management en de denktank Climate Interactive). Het model is [gecalibreerd](https://youtu.be/M2zUFuXmhDs) aan de hand van 6 "integrated assessment models", dit zijn de meest accurate klimaatmodellen ter wereld.[\[1\]](#footnote1)
+Laten we eens kijken of we die getallen kunnen reproduceren. Ik gebruik hiervoor de En-ROADS climate simulator (ontwikkeld door MIT Sloan School of Management en de denktank Climate Interactive). Het model is [gecalibreerd](https://youtu.be/M2zUFuXmhDs) aan de hand van 6 "integrated assessment models", dit zijn de meest accurate klimaatmodellen ter wereld.[^1]
 
 ##### Wereldwijde CO2 uitstoot
 
@@ -29,7 +29,7 @@ CO2 verwijdering wanneer 15 miljoen hectare in 2021 wordt bebost
 
 ##### 2 x India
 
-Laten we een onrealistisch gedachte-experiment doen. Stel, we zouden in 2021 bomen planten op een oppervlak ter grootte van twee keer India, dan zouden we de 150 Mton die Microsoft en Rabobank noemen nét halen.[\[2\]](#footnote2)
+Laten we een onrealistisch gedachte-experiment doen. Stel, we zouden in 2021 bomen planten op een oppervlak ter grootte van twee keer India, dan zouden we de 150 Mton die Microsoft en Rabobank noemen nét halen.[^2]
 
 ![](https://hiskeoverweg.files.wordpress.com/2021/01/bos2.png?w=691)
 
@@ -37,7 +37,7 @@ CO2 verwijdering wanneer we in 2021 een oppervlak ter grootte van twee keer Indi
 
 ##### Koolstofvastlegging in landbouwgrond
 
-In de plannen van Microsoft en Rabobank wordt gesproken over agroforestry. Deze teeltwijze, waarbij bomen worden gecombineerd met landbouw op hetzelfde perceel, heeft nog een belangrijk mechanisme om CO2 uit de lucht te verwijderen: het verbetert de bodemkwaliteit, wat er toe leidt dat de bodem meer koolstof kan vastleggen.[\[3\]](#footnote3) Komen we op die manier dichter bij de 150 Mton die Microsoft en Rabobank zich ten doel stellen? Het wereldwijde landbouwoppervlak bedraagt [5 miljard ha](http://www.fao.org/sustainability/news/detail/en/c/1274219/). In dit project hebben we het dus over 3% van dat oppervlak. Laten we eens kijken waar koolstofvastlegging op die schaal toe leidt in En-ROADS. De extra koolstofvastlegging bedraagt 20 Mton (helaas kan ik de schaal van de verticale as niet aanpassen):
+In de plannen van Microsoft en Rabobank wordt gesproken over agroforestry. Deze teeltwijze, waarbij bomen worden gecombineerd met landbouw op hetzelfde perceel, heeft nog een belangrijk mechanisme om CO2 uit de lucht te verwijderen: het verbetert de bodemkwaliteit, wat er toe leidt dat de bodem meer koolstof kan vastleggen.[^3] Komen we op die manier dichter bij de 150 Mton die Microsoft en Rabobank zich ten doel stellen? Het wereldwijde landbouwoppervlak bedraagt [5 miljard ha](http://www.fao.org/sustainability/news/detail/en/c/1274219/). In dit project hebben we het dus over 3% van dat oppervlak. Laten we eens kijken waar koolstofvastlegging op die schaal toe leidt in En-ROADS. De extra koolstofvastlegging bedraagt 20 Mton (helaas kan ik de schaal van de verticale as niet aanpassen):
 
 ![](https://hiskeoverweg.files.wordpress.com/2021/01/soil-2.png?w=679)
 
@@ -45,7 +45,7 @@ CO2 verwijdering door koolstofvastlegging in de bodem
 
 ##### Wat mist er nog?
 
-We hebben 24 Mton CO2 verwijdering aannemelijk gemaakt met ons model. We missen dus nog een significant deel van 150 Mton waar Rabobank en Microsoft van spreken. Zijn onze aannames wel correct? Met de standaard instelling in En-ROADS, duurt het 80 jaar totdat een _gemiddelde_ boom _in een bos_ volgroeid is. De bomen waar we het hier over hebben staan op akkers ten zuiden van de Sahara. Ze vangen daarom meer zonlicht dan de gemiddelde boom, en groeien wellicht sneller. Aan de andere kant, ze groeien vaak in droge gebieden met slechte bodemkwaliteit, dus ze zouden ook lángzamer kunnen groeien (wie kan het me vertellen?). Laten we kijken wat er gebeurt als bomen sneller zouden groeien. We passen de instelling in En-ROADS aan zodat het 20 jaar duurt voor bomen volgroeid zijn, in plaats van 80 jaar. Met deze instelling behalen we het gewenste doel.[\[4\]](https://hiskeoverweg.wordpress.com/wp-admin/post.php?post=159&action=edit#footnote4)
+We hebben 24 Mton CO2 verwijdering aannemelijk gemaakt met ons model. We missen dus nog een significant deel van 150 Mton waar Rabobank en Microsoft van spreken. Zijn onze aannames wel correct? Met de standaard instelling in En-ROADS, duurt het 80 jaar totdat een _gemiddelde_ boom _in een bos_ volgroeid is. De bomen waar we het hier over hebben staan op akkers ten zuiden van de Sahara. Ze vangen daarom meer zonlicht dan de gemiddelde boom, en groeien wellicht sneller. Aan de andere kant, ze groeien vaak in droge gebieden met slechte bodemkwaliteit, dus ze zouden ook lángzamer kunnen groeien (wie kan het me vertellen?). Laten we kijken wat er gebeurt als bomen sneller zouden groeien. We passen de instelling in En-ROADS aan zodat het 20 jaar duurt voor bomen volgroeid zijn, in plaats van 80 jaar. Met deze instelling behalen we het gewenste doel.[^4]
 
 ![](https://hiskeoverweg.files.wordpress.com/2021/01/fast_trees-2.png?w=673)
 
@@ -63,10 +63,10 @@ Laat me weten welke aannames volgens jou niet kloppen! Je kunt me bereiken via _
 
 Ben je benieuwd naar de En-ROADS climate workshop? Volg de workshop [op de En-ROADS website](https://www.climateinteractive.org/get-involved/webinars/) (in het Engels), bekijk een [lange](https://www.youtube.com/watch?v=R9W_KEXNzm4&t=0s) of een [korte](https://www.youtube.com/watch?v=u5mrnkOJdso) opname ervan op YouTube of contacteer één van de Nederlandse [En-ROADS climate ambassadors](https://www.climateinteractive.org/tools/en-roads/climate-ambassadors/) voor een interactieve sessie in het Nederlands.
 
-\[1\] Meer informatie over de aannames van het model kun je vinden in de [En-ROADS reference guide](https://img.climateinteractive.org/wp-content/uploads/2021/01/En-ROADS_Reference_Guide_012221.pdf). Mocht je het er niet mee eens zijn, dan kun je de aannames ook naar eigen inzicht aanpassen in de simulator.
+[^1]: Meer informatie over de aannames van het model kun je vinden in de [En-ROADS reference guide](https://img.climateinteractive.org/wp-content/uploads/2021/01/En-ROADS_Reference_Guide_012221.pdf). Mocht je het er niet mee eens zijn, dan kun je de aannames ook naar eigen inzicht aanpassen in de simulator.
 
-\[2\] Lees [hier](https://docs.climateinteractive.org/projects/en-roads/en/latest/guide/afforestation.html) meer over de positieve en negatieve neveneffecten van grootschalige bebossing.
+[^2]: Lees [hier](https://docs.climateinteractive.org/projects/en-roads/en/latest/guide/afforestation.html) meer over de positieve en negatieve neveneffecten van grootschalige bebossing.
 
-\[3\] De documentaire [Kiss the Ground](https://kisstheground.com/) gaat hier nader op in.
+[^3]: De documentaire [Kiss the Ground](https://kisstheground.com/) gaat hier nader op in.
 
-\[4\] Een ander aspect dat niet aan bod komt in het persbericht over dit plan is de vraag hoe boeren gemotiveerd worden om mee te doen. Ik ben enthousiast over de [PIP approach](https://www.wur.nl/en/Research-Results/Research-Institutes/Environmental-Research/Programmes/Sustainable-Land-Use/Sustainable-production-systems/The-PIP-approach-proud-farmers-better-soils-more-food.htm)
+[^4]: Een ander aspect dat niet aan bod komt in het persbericht over dit plan is de vraag hoe boeren gemotiveerd worden om mee te doen. Ik ben enthousiast over de [PIP approach](https://www.wur.nl/en/Research-Results/Research-Institutes/Environmental-Research/Programmes/Sustainable-Land-Use/Sustainable-production-systems/The-PIP-approach-proud-farmers-better-soils-more-food.htm)

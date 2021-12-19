@@ -23,7 +23,7 @@ Helaas te mooi om waar te zijn...
 
 ##### Ordes van grootte
 
-Natuurlijk, alle kleine beetjes helpen [\[1\]](#footnote1_a), maar het is wel belangrijk dat we de relatieve impact van verschillende maatregelen begrijpen. [\[2\]](https://hiskeoverweg.wordpress.com/wp-admin/post.php?post=201&action=edit#footnote2_a) Hoe verhoudt het effect van een belasting op CO2 zich tot het massaal aanplanten van bomen, bijvoorbeeld? Dit kun je zelf uitzoeken met de [En-ROADS simulator](https://en-roads.climateinteractive.org/scenario.html?p39=2&v=2.7.36). Verder zijn ordes van grootte ook belangrijk om te begrijpen hoeveel impact interventies kunnen hebben. Neem bijvoorbeeld het idee om frituurvet als biobrandstof te gebruiken. Dat is een nuttige bestemming voor een reststof, maar in 2011 is al [uitgerekend](https://www.nrc.nl/nieuws/2011/01/29/biodieselproblemen-11992569-a1326913) dat we jaarlijks ongeveer 8 L per hoofd van de bevolking produceren, dus we moeten flink wat extra patat gaan eten om onze benzine en kerosine te vervangen met biobrandstof uit frituurvet.
+Natuurlijk, alle kleine beetjes helpen [^1], maar het is wel belangrijk dat we de relatieve impact van verschillende maatregelen begrijpen. [^2] Hoe verhoudt het effect van een belasting op CO2 zich tot het massaal aanplanten van bomen, bijvoorbeeld? Dit kun je zelf uitzoeken met de [En-ROADS simulator](https://en-roads.climateinteractive.org/scenario.html?p39=2&v=2.7.36). Verder zijn ordes van grootte ook belangrijk om te begrijpen hoeveel impact interventies kunnen hebben. Neem bijvoorbeeld het idee om frituurvet als biobrandstof te gebruiken. Dat is een nuttige bestemming voor een reststof, maar in 2011 is al [uitgerekend](https://www.nrc.nl/nieuws/2011/01/29/biodieselproblemen-11992569-a1326913) dat we jaarlijks ongeveer 8 L per hoofd van de bevolking produceren, dus we moeten flink wat extra patat gaan eten om onze benzine en kerosine te vervangen met biobrandstof uit frituurvet.
 
 ##### Het belang van systeemdenken
 
@@ -105,6 +105,6 @@ De denktank Climate Interactive heeft een [introductie in systeemdenken op klima
 
 Ben je benieuwd naar de En-ROADS climate workshop? Volg de workshop [op de En-ROADS website](https://www.climateinteractive.org/get-involved/webinars/) (in het Engels), bekijk een [lange](https://www.youtube.com/watch?v=R9W_KEXNzm4&t=0s) of een [korte](https://www.youtube.com/watch?v=u5mrnkOJdso) opname ervan op YouTube of contacteer één van de Nederlandse [En-ROADS climate ambassadors](https://www.climateinteractive.org/tools/en-roads/climate-ambassadors/) voor een interactieve sessie in het Nederlands.
 
-\[1\] Rutger Bregman houdt [een mooi betoog](https://decorrespondent.nl/11718/ja-het-is-allemaal-de-schuld-van-shell-klm-en-het-systeem-maar-zullen-we-het-nu-eens-over-jou-hebben/450498510-0abb8d69) waarom een kleine eigen bijdrage er ook toe doet.
+[^1]: Rutger Bregman houdt [een mooi betoog](https://decorrespondent.nl/11718/ja-het-is-allemaal-de-schuld-van-shell-klm-en-het-systeem-maar-zullen-we-het-nu-eens-over-jou-hebben/450498510-0abb8d69) waarom een kleine eigen bijdrage er ook toe doet.
 
-\[2\] David MacKay heeft hier een informatief boek over geschreven. Het is [gratis beschikbaar.](https://www.withouthotair.com/)
+[^2]: David MacKay heeft hier een informatief boek over geschreven. Het is [gratis beschikbaar.](https://www.withouthotair.com/)

@@ -21,7 +21,7 @@ I have to make assumptions to translate the VVD policy into measures I can enter
 
 ![](https://hiskeoverweg.files.wordpress.com/2021/01/1-4.png?w=1024)
 
-In this figure we see the business as usual scenario ([scenario link](https://en-roads.climateinteractive.org/scenario.html?g0=2&g1=62&v=2.7.35)). On the left hand side we see the estimated increase in energy use for the next 80 years. On the right hand side we see the corresponding (equivalent) CO2 emissions. If we don't intervene, temperature will rise by 3.6oC with respect to the 19th century levels by 2100. [The Paris agreement](https://unfccc.int/process-and-meetings/the-paris-agreement/the-paris-agreement) states it is desirable to limit warming well below 2oC and preferably to 1.5oC . Time for action![\[1\]](#footnote1) Let's take a look at the VVD policy plans.
+In this figure we see the business as usual scenario ([scenario link](https://en-roads.climateinteractive.org/scenario.html?g0=2&g1=62&v=2.7.35)). On the left hand side we see the estimated increase in energy use for the next 80 years. On the right hand side we see the corresponding (equivalent) CO2 emissions. If we don't intervene, temperature will rise by 3.6oC with respect to the 19th century levels by 2100. [The Paris agreement](https://unfccc.int/process-and-meetings/the-paris-agreement/the-paris-agreement) states it is desirable to limit warming well below 2oC and preferably to 1.5oC . Time for action![^1] Let's take a look at the VVD policy plans.
 
 ##### The VVD electoral programme
 
@@ -29,7 +29,7 @@ In this figure we see the business as usual scenario ([scenario link](https://en
 
 The VVD programme states: _In 2030 it will be prohibited to use coal to generate electricity. Old and polluting coal plants will be closed earlier on. Carbon Capture and Storage (CCS), (...) should be considered for the subsidies for the renewable energy transition._
 
-I enter this in En-ROADS as follows: 100% reduction in coal use by 2030, **2%** accelerated retirement of coal plants and a reduced cost of CCS research by **5%**. You can see the effect on coal usage and worldwide CO2 emissions below. We prevent 0.4oC of temperature increase - not a bad start![\[2\]](#footnote2) [Scenario link](https://en-roads.climateinteractive.org/scenario.html?p196=100&p202=2030&p4=2&p6=5&g0=2&g1=62&v=2.7.35)
+I enter this in En-ROADS as follows: 100% reduction in coal use by 2030, **2%** accelerated retirement of coal plants and a reduced cost of CCS research by **5%**. You can see the effect on coal usage and worldwide CO2 emissions below. We prevent 0.4oC of temperature increase - not a bad start![^2] [Scenario link](https://en-roads.climateinteractive.org/scenario.html?p196=100&p202=2030&p4=2&p6=5&g0=2&g1=62&v=2.7.35)
 
 ![](https://hiskeoverweg.files.wordpress.com/2021/01/2.png?w=1024)
 
@@ -43,7 +43,7 @@ Fewer earth quakes in Groningen! - yet for the rest of the world this means busi
 
 _On the long term nuclear energy can be a reliable and CO2 neutral energy source. Nuclear energy will receive support from the government, e.g. funding from the Growth Fund._ (...) _Nuclear energy, or the development of a thorium reactor should be considered for subsidies from the Growth Fund (SDE++)._
 
-The [Growth fund](https://www.rijksoverheid.nl/actueel/nieuws/2021/01/14/eerste-kamer-stemt-in-met-nationaal-groeifonds) contains 20 billion euros for the next five years. On a yearly basis [the nuclear power plant in Borssele](https://www.rijksoverheid.nl/onderwerpen/duurzame-energie/opwekking-kernenergie) (the only one in the Netherlands) generates 3.3 miljoen MWh. Part of the budget of the Growth Fund could be used to subsidize nuclear energy by **0.07 $/kWh**. And let us be optimistic and assume that we will be able to develop a thorium nuclear power plant by 2040. The effect on temperature is a mere 0.1oC. There are two simple explanations. In the first place, it takes about ten years to set up the infrastructure for a nuclear reactor, so it will take some time before more reactors are up and running. Secondly subsidized nuclear energy competes with renewable energy sources. In our current scenario, more nuclear energy leads to less renewable energy, whereas we are trying to reduce fossil fuel consumption.[\[3\]](#footnote3)
+The [Growth fund](https://www.rijksoverheid.nl/actueel/nieuws/2021/01/14/eerste-kamer-stemt-in-met-nationaal-groeifonds) contains 20 billion euros for the next five years. On a yearly basis [the nuclear power plant in Borssele](https://www.rijksoverheid.nl/onderwerpen/duurzame-energie/opwekking-kernenergie) (the only one in the Netherlands) generates 3.3 miljoen MWh. Part of the budget of the Growth Fund could be used to subsidize nuclear energy by **0.07 $/kWh**. And let us be optimistic and assume that we will be able to develop a thorium nuclear power plant by 2040. The effect on temperature is a mere 0.1oC. There are two simple explanations. In the first place, it takes about ten years to set up the infrastructure for a nuclear reactor, so it will take some time before more reactors are up and running. Secondly subsidized nuclear energy competes with renewable energy sources. In our current scenario, more nuclear energy leads to less renewable energy, whereas we are trying to reduce fossil fuel consumption.[^3]
 
 ###### Hydrogen
 
@@ -63,7 +63,7 @@ We again get 0.1oC closer to our goal. [Scenario link](https://en-roads.climatei
 
 _Substantial increase in market share of renewable energy._
 
-It is hard to quantify without a detailed strategy. I think the electoral programme can use some clarification on this point. For now, let us propose a subsidy on renewable energy of **0.02 $/kWh** (you can reach a similar effect by subsidizing renewable energy infrastructure). **0.02 $/kWh** is slighty more than 10% of [the price a consumer pays](https://www.consumentenbond.nl/energie-vergelijken/kwh-prijs). This reduces global warming by 0.1oC. We see an increase in total energy use, because energy becomes cheaper.[\[4\]](#footnote4) [Scenario link](https://en-roads.climateinteractive.org/scenario.html?p210=1&p196=100&p202=2030&p4=2&p6=5&p16=-0.02&p21=10&p30=-0.07&p36=2040&p53=1&p55=1&g0=2&g1=62&v=2.7.35)
+It is hard to quantify without a detailed strategy. I think the electoral programme can use some clarification on this point. For now, let us propose a subsidy on renewable energy of **0.02 $/kWh** (you can reach a similar effect by subsidizing renewable energy infrastructure). **0.02 $/kWh** is slighty more than 10% of [the price a consumer pays](https://www.consumentenbond.nl/energie-vergelijken/kwh-prijs). This reduces global warming by 0.1oC. We see an increase in total energy use, because energy becomes cheaper.[^4] [Scenario link](https://en-roads.climateinteractive.org/scenario.html?p210=1&p196=100&p202=2030&p4=2&p6=5&p16=-0.02&p21=10&p30=-0.07&p36=2040&p53=1&p55=1&g0=2&g1=62&v=2.7.35)
 
 ![](https://hiskeoverweg.files.wordpress.com/2021/01/5.png?w=1024)
 
@@ -77,7 +77,7 @@ Increase standards cannot be simulated in En-ROADS, let's say that a tax on biom
 
 ###### Electrical cars
 
-As part of it's legacy the VVD party is required to spend at least half a page of their electoral programme on cars (and can't resist noting that petrol motors sound awesome). Fortunately, they mention electrification of cars. Let's add electricification[\[5\]](#footnote5) of **1%** of the entire fleet each year. This is in addition to the hydrogen powered cars we added to the fleet. There is a small reduction in the amount of petrol used, but not enough to make a significant difference. [Scenario link](https://en-roads.climateinteractive.org/scenario.html?p210=1&p196=100&p202=2030&p4=2&p6=5&p16=-0.02&p21=10&p23=10&p30=-0.07&p36=2040&p53=2&p55=1&g0=2&g1=62&v=2.7.35)
+As part of it's legacy the VVD party is required to spend at least half a page of their electoral programme on cars (and can't resist noting that petrol motors sound awesome). Fortunately, they mention electrification of cars. Let's add electricification[^5] of **1%** of the entire fleet each year. This is in addition to the hydrogen powered cars we added to the fleet. There is a small reduction in the amount of petrol used, but not enough to make a significant difference. [Scenario link](https://en-roads.climateinteractive.org/scenario.html?p210=1&p196=100&p202=2030&p4=2&p6=5&p16=-0.02&p21=10&p23=10&p30=-0.07&p36=2040&p53=2&p55=1&g0=2&g1=62&v=2.7.35)
 
 ![](https://hiskeoverweg.files.wordpress.com/2021/01/7.png?w=1024)
 
@@ -131,7 +131,7 @@ To supply houses with energy from hydrogen, we need to convert electricity into 
 
 _Afforestation in linked natural reserves._
 
-[54 %](https://www.cbs.nl/nl-nl/nieuws/2016/08/minder-landbouw-meer-natuur) of the surface area of the Netherlands is used for agriculture. Let us assume we use **1%** for afforestation (not necesarily agricultural land, we could also turn Lake IJssel into a swamp forest, for instance). If we scale this to the entire planet, we will face some challenges, like regions with irregular rainfall, with increased demand for agricultural land or with Jair Bolsonaro as a president (or all of the above). To get an idea of the extent of this operation: 1% of worldwide surface area would correspond to two times the area of India!Unfortunately planting trees is a bit of a hype, and the emissions from energy use are orders of magnitude larger than what trees can compensate for. This titanic effort brings us only 0.1oC closer to our goal. We shouldn't forget to mention the positive effect on biodiversity though.[\[6\]](https://hiskeoverweg.wordpress.com/wp-admin/post.php?post=107&action=edit#footnote7) [Scenario link](https://en-roads.climateinteractive.org/scenario.html?p209=1&p210=1&p196=100&p202=2030&p4=2&p6=5&p7=10&p16=-0.02&p21=10&p23=10&p30=-0.07&p36=2040&p39=8&p47=3&p50=2.5&p53=2&p55=1&p60=-12&p61=-10&p65=100&g0=2&g1=62&v=2.7.35)
+[54 %](https://www.cbs.nl/nl-nl/nieuws/2016/08/minder-landbouw-meer-natuur) of the surface area of the Netherlands is used for agriculture. Let us assume we use **1%** for afforestation (not necesarily agricultural land, we could also turn Lake IJssel into a swamp forest, for instance). If we scale this to the entire planet, we will face some challenges, like regions with irregular rainfall, with increased demand for agricultural land or with Jair Bolsonaro as a president (or all of the above). To get an idea of the extent of this operation: 1% of worldwide surface area would correspond to two times the area of India!Unfortunately planting trees is a bit of a hype, and the emissions from energy use are orders of magnitude larger than what trees can compensate for. This titanic effort brings us only 0.1oC closer to our goal. We shouldn't forget to mention the positive effect on biodiversity though.[^6] [Scenario link](https://en-roads.climateinteractive.org/scenario.html?p209=1&p210=1&p196=100&p202=2030&p4=2&p6=5&p7=10&p16=-0.02&p21=10&p23=10&p30=-0.07&p36=2040&p39=8&p47=3&p50=2.5&p53=2&p55=1&p60=-12&p61=-10&p65=100&g0=2&g1=62&v=2.7.35)
 
 ![](https://hiskeoverweg.files.wordpress.com/2021/01/13.png?w=1024)
 
@@ -139,13 +139,13 @@ _Afforestation in linked natural reserves._
 
 _We strengthen knowledge hubs such as Brainport Eindhoven and Foodvalley Wageningen. (…) We experiment with partnerships between educational institutions, industry and the government to contribute to solutions leading to a healthy soil, sustainable fertilization use and sustainable food production._
 
-Innovations in agriculture (which could also be meat substitutes or in vitro meat) could lead to a smaller emission of methane and nitrogen dioxide, say by **5%**. Furthermore we could develop technological innovations for carbon removal, such as [biochar](https://www.american.edu/sis/centers/carbon-removal/fact-sheet-biochar.cfm), [regenerative agriculture](https://www.american.edu/sis/centers/carbon-removal/fact-sheet-soil-carbon-sequestration.cfm)[\[7\]](#footnote8) and [mineralisation](https://www.american.edu/sis/centers/carbon-removal/fact-sheet-enhanced-mineralization.cfm)). Let us assume these technologies all reach **33%** of their full potential, as they don't exist on large scales yet. We end up with another 0.2oC decrease in temperature rise. [Scenario link](https://en-roads.climateinteractive.org/scenario.html?p208=2&p209=1&p210=1&p196=100&p202=2030&p4=2&p6=5&p7=10&p16=-0.02&p21=10&p23=10&p30=-0.07&p36=2040&p39=8&p47=3&p50=2.5&p53=2&p55=1&p60=-17&p61=-10&p65=100&p72=33&p74=33&p76=33&p77=2030&g0=2&g1=62&v=2.7.35)
+Innovations in agriculture (which could also be meat substitutes or in vitro meat) could lead to a smaller emission of methane and nitrogen dioxide, say by **5%**. Furthermore we could develop technological innovations for carbon removal, such as [biochar](https://www.american.edu/sis/centers/carbon-removal/fact-sheet-biochar.cfm), [regenerative agriculture](https://www.american.edu/sis/centers/carbon-removal/fact-sheet-soil-carbon-sequestration.cfm)[^7] and [mineralisation](https://www.american.edu/sis/centers/carbon-removal/fact-sheet-enhanced-mineralization.cfm)). Let us assume these technologies all reach **33%** of their full potential, as they don't exist on large scales yet. We end up with another 0.2oC decrease in temperature rise. [Scenario link](https://en-roads.climateinteractive.org/scenario.html?p208=2&p209=1&p210=1&p196=100&p202=2030&p4=2&p6=5&p7=10&p16=-0.02&p21=10&p23=10&p30=-0.07&p36=2040&p39=8&p47=3&p50=2.5&p53=2&p55=1&p60=-17&p61=-10&p65=100&p72=33&p74=33&p76=33&p77=2030&g0=2&g1=62&v=2.7.35)
 
 ![](https://hiskeoverweg.files.wordpress.com/2021/01/1-3.png?w=1024)
 
 ##### Conclusion
 
-I conclude that the VVD policy would lead to a temperature increase of 2.2oC (please mind the [disclaimer]("#h5")!). This would have disastrous effects[\[8\]]("#footnote9"), but I see some reasons for cautious optimism:
+I conclude that the VVD policy would lead to a temperature increase of 2.2oC (please mind the [disclaimer]("#h5")!). This would have disastrous effects[^8], but I see some reasons for cautious optimism:
 
 - The VVD usually rules the country together with more progressive parties.
 - This is a _concept_ electoral programme, so there is room for improvement (I will write about it soon in [a new blogpost](/posts/dutch-climate-policy-suggestions-for-improvement/))
@@ -159,19 +159,18 @@ Let me know what does not make sense to you! Adapt [the final scenario](https://
 
 Curious about the En-ROADS climate workshop? Participate in the workshop [on the En-ROADS website](https://www.climateinteractive.org/get-involved/webinars/) (mostly in English), watch a [long](https://www.youtube.com/watch?v=R9W_KEXNzm4&t=0s) or a [short](https://www.youtube.com/watch?v=u5mrnkOJdso) workshop recording on YouTube or contact an [En-ROADS climate ambassador](https://www.climateinteractive.org/tools/en-roads/climate-ambassadors/) for an interactive workshop in your preferred language.
 
-\[1\] Fortunately Mark Rutte [agrees](https://www.cas2021.com/documents/videos/2021/01/11/mp-video-message).
+[^1]: Fortunately Mark Rutte [agrees](https://www.cas2021.com/documents/videos/2021/01/11/mp-video-message).
 
-\[2\] On the En-ROADS website you can read more about [co-benefits](https://docs.climateinteractive.org/projects/en-roads/en/latest/guide/coal.html#potential-co-benefits-of-discouraging-coal) of reduced coal consumption.
+[^2]: On the En-ROADS website you can read more about [co-benefits](https://docs.climateinteractive.org/projects/en-roads/en/latest/guide/coal.html#potential-co-benefits-of-discouraging-coal) of reduced coal consumption.
 
-\[3\] More information about the possibilities and risks of nuclear energy can be found [here](https://docs.climateinteractive.org/projects/en-roads/en/latest/guide/nuclear.html)
+[^3]: More information about the possibilities and risks of nuclear energy can be found [here](https://docs.climateinteractive.org/projects/en-roads/en/latest/guide/nuclear.html)
 
+[^4]: Interested in co-benefits of investments in renewable energy sources? Some are listed [here](https://docs.climateinteractive.org/projects/en-roads/en/latest/guide/renewables.html#potential-co-benefits-of-encouraging-renewables).
 
-\[4\] Interested in co-benefits of investments in renewable energy sources? Some are listed [here](https://docs.climateinteractive.org/projects/en-roads/en/latest/guide/renewables.html#potential-co-benefits-of-encouraging-renewables).
+[^5]: The consequences of lithium mining in Chile have been nicely [documented by NTR. (in Dutch)](https://www.ntr.nl/Bodem-in-zicht/384/detail/Lithium/VPWON_1309236). Improved sustainability of lithium mining is an important problem to tackle.
 
-\[5\] The consequences of lithium mining in Chile have been nicely [documented by NTR. (in Dutch)](https://www.ntr.nl/Bodem-in-zicht/384/detail/Lithium/VPWON_1309236). Improved sustainability of lithium mining is an important problem to tackle.
+[^6]: Read more about [co-benefits regarding biodiversity and air quality](https://docs.climateinteractive.org/projects/en-roads/en/latest/guide/afforestation.html#potential-co-benefits-of-increasing-afforestation)
 
-\[6\] Read more about [co-benefits regarding biodiversity and air quality](https://docs.climateinteractive.org/projects/en-roads/en/latest/guide/afforestation.html#potential-co-benefits-of-increasing-afforestation)
+[^7]: ["Kiss the ground"](https://kissthegroundmovie.com/) is a nice documentary on regenerative agriculture
 
-\[7\] ["Kiss the ground"](https://kissthegroundmovie.com/) is a nice documentary on regenerative agriculture
-
-\[8\] Read more about [the difference between 1.5oC and 2oC](https://www.wri.org/blog/2018/10/half-degree-and-world-apart-difference-climate-impacts-between-15-c-and-2-c-warming) global warming
+[^8]: Read more about [the difference between 1.5oC and 2oC](https://www.wri.org/blog/2018/10/half-degree-and-world-apart-difference-climate-impacts-between-15-c-and-2-c-warming) global warming
