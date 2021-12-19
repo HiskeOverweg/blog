@@ -1,6 +1,9 @@
 ---
 title: Hiske Overweg
+layout: root.html
 ---
+
+<link rel="stylesheet" href="/style.css" />
 
 # [Hiske Overweg](/)
 

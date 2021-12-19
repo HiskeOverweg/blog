@@ -12,5 +12,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setLibrary("md", markdownLibrary);
 
   // Image support.
+  eleventyConfig.addPassthroughCopy("style.css");
   eleventyConfig.setTemplateFormats(["md", "png", "jpg"]);
 };
