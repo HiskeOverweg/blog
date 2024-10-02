@@ -1,9 +1,9 @@
 # Blog
 
-## Gebruik
+Gemaakt met Pelican static site generator:
+https://docs.getpelican.com/en/latest/
 
-- Installeer NPM
-- Start server:
-  ```
-  npx @11ty/eleventy --serve  # Lokale server starten
-  ```
+Site lokaal genereren:
+```
+pelican --autoreload --listen
+```
