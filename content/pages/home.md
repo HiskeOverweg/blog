@@ -35,7 +35,7 @@ Dat kun je ook komen beluisteren tijdens dit klimaatconcert, waarin het publiek 
 
 De opbrengst gaat naar [Wetlands international](https://www.wetlands.org/)
 
-Kaarten zijn te koop voor €10 (€5 met korting) via concert@his.ke.
+Kaarten zijn te koop voor €10 (€5 met korting). Graag reserveren door te mailen naar concert@his.ke.
 
 <side-block>
   <side-content>
