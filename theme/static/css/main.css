@@ -1,0 +1,412 @@
+/*
+  Originally based off the Smashing HTML 5 layout, then heavily changed.
+	License: MIT <https://opensource.org/licenses/MIT>
+	Licensed by: Smashing Media GmbH <https://www.smashingmagazine.com/>
+	Original author: Enrique Ramírez <http://enrique-ramirez.com/>
+*/
+
+/* Imports */
+@import url("reset.css");
+@import url("pygment.css");
+@import url("typogrify.css");
+@import url("fonts.css");
+
+/***** Global *****/
+/* Body */
+body {
+  color: #000305;
+  font-family: Montserrat, sans-serif;
+  line-height: 1.4;
+  --content-width: min(900px, calc(100vw - 1rem));
+  --horizontal-page-margin: calc(0.5 * (100vw - var(--content-width)));
+  counter-reset: side-counter;
+}
+
+/* Headings */
+h1 {font-size: 1.5em }
+h2 {font-size: 1.4em }
+h3 {font-size: 1.3em }
+h4 {font-size: 1.2em}
+h5 {font-size: 1.1em}
+h6 {font-size: 1em}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 400;
+  line-height: 1.1;
+  margin-bottom: .8em;
+  font-family: Montserrat, sans-serif;
+}
+
+h1 a {
+  text-decoration: none;
+}
+
+h3, h4, h5, h6 { margin-top: .8em; }
+
+hr { border: 2px solid #EEEEEE; }
+
+/* Anchors */
+a {outline: 0;}
+a img {border: 0px; text-decoration: none;}
+a {
+  color: #009955;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 4px;
+}
+
+/* Paragraphs */
+div.line-block,
+p { margin-top: 1em;
+  margin-bottom: 1em;}
+
+strong, b {font-weight: bold;}
+em, i {font-style: italic;}
+
+/* Lists */
+ul {
+  list-style: outside disc;
+  margin: 0em 0 0 1.5em;
+}
+
+ol {
+  list-style: outside decimal;
+  margin: 0em 0 0 1.5em;
+}
+
+li { margin-top: 0.5em;
+  margin-bottom: 1em; }
+
+.readmore { margin-bottom: 2rem; display:block;}
+
+
+dl {margin: 0 0 1.5em 0;}
+dt {font-weight: bold;}
+dd {margin-left: 1.5em;}
+
+pre{background-color:  rgb(238, 238, 238); padding: 10px; margin: 10px; }
+
+/* Quotes */
+blockquote {
+  margin: 20px;
+  font-style: italic;
+}
+cite {}
+
+q {}
+
+div.note {
+  float: right;
+  margin: 5px;
+  font-size: 85%;
+}
+
+/* Tables */
+table {margin: .5em auto 1.5em auto; width: 98%;}
+
+thead th {padding: .5em .4em; text-align: left;}
+thead td {}
+
+tbody td {padding: .5em .4em;}
+tbody th {}
+
+tbody .alt td {}
+tbody .alt th {}
+
+tfoot th {}
+tfoot td {}
+
+/* HTML5 tags */
+header, section, footer,
+aside, nav, article, figure {
+  display: block;
+}
+
+/***** Layout *****/
+img {
+  max-width: 80%;
+  margin-left: 10%;
+}
+
+side-content img {
+  max-width: 100%;
+  margin: 0;
+}
+
+img.right, figure.right, div.figure.align-right {
+  float: right;
+  margin: 0 0 2em 2em;
+}
+img.left, figure.left, div.figure.align-left {
+  float: left;
+  margin: 0 2em 2em 0;
+}
+
+sub {
+  vertical-align: baseline;
+  position: relative;
+  bottom: -0.5em;
+  font-size: 0.8em;
+}
+
+sup {
+  vertical-align: baseline;
+  position: relative;
+  top: -0.5em;
+  font-size: 0.8em;
+}
+
+/* .rst support */
+div.figure img, figure img {  /* to fill figure exactly */
+  max-width: 100%;
+}
+div.figure p.caption, figure p.caption { /* margin provided by figure */
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+/*
+	Header
+*****************/
+#banner {
+  display: flex;
+  justify-content: space-between;
+  background: #009955;
+  color: #fff;
+  padding: 1rem var(--horizontal-page-margin);
+  flex-wrap: wrap;
+  gap: 0.5em 1.2em;
+}
+
+	/* Banner */
+#banner h1 {
+  font-size: 1.5em;
+  margin: 0;
+}
+
+#banner a {
+  text-decoration: none;
+  color: inherit;
+  display: flex;
+  height: 100%;
+  align-items: center;
+  white-space: nowrap;
+}
+
+/* Main Nav */
+#banner nav li {
+  margin: 0;
+}
+
+#banner nav ul {
+  list-style: none;
+  height: 100%;
+  display: flex;
+  align-items: stretch;
+  gap: 0.5em 1.2em;
+  margin: 0;
+  flex-wrap: wrap;
+}
+
+#banner nav li a {
+  display: block;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+#banner nav li.active a {
+  border-bottom: 2px solid white;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 8px;
+}
+
+/*
+	Body
+*****************/
+#content {
+  margin-top: 2em;
+  margin-bottom: 2em;
+  padding: 0 var(--horizontal-page-margin);
+}
+
+/*
+	Sidenotes
+*****************/
+side-block, side-ref {
+  font-size: 0.8em;
+  position: relative;
+}
+
+side-ref {
+  counter-increment: side-counter;
+}
+
+@media (min-width: 1000px) {
+  #content {
+    --main-content-width: calc(.60 * var(--content-width));
+    --sidenote-width: calc(var(--content-width) - var(--main-content-width));
+    width: var(--main-content-width);
+  }
+
+  side-content {
+    float: right;
+    clear: right;
+    margin-right: calc(-1 * var(--sidenote-width));
+    width: calc(var(--sidenote-width) - 4rem);
+    margin-bottom: 1rem;
+  }
+
+  side-ref::after {
+      content: counter(side-counter);
+      vertical-align: baseline;
+      position: relative;
+      top: -0.5em;
+      font-size: 0.8em;
+  }
+
+  side-ref side-content::before {
+    content: counter(side-counter);
+    vertical-align: baseline;
+    position: relative;
+    top: -0.5em;
+    margin-right: 0.5em;
+    font-size: 0.8em;
+  }
+}
+
+@media not (min-width: 1000px) {
+  side-ref::after {
+      content: "⊕";
+      font-size: 1rem;
+      padding: 0.2rem;
+      color: #666;
+  }
+
+  side-ref side-content {
+    display: none;
+  }
+
+  side-ref:focus side-content {
+    display: block;
+    border: 1px solid black;
+    position: absolute;
+    background: white;
+    border-radius: 0.2em;
+    padding: 0.5em;
+    box-shadow: 1px 1px;
+  }
+}
+
+
+/*
+	About
+*****************/
+#about {
+  background: #fff;
+  font-style: normal;
+  margin-bottom: 2em;
+  padding: 20px;
+  text-align: left;
+  max-width: 760px;
+
+  border-radius: 10px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+}
+
+#about .primary {float: left; max-width: 165px;}
+#about .primary strong {color: #C64350; display: block; font-size: 1.286em;}
+#about .photo {float: left; margin: 5px 20px;}
+
+#about .url:link, #about .url:visited {text-decoration: none;}
+
+#about .bio {float: right; max-width: 500px;}
+
+/*
+	Footer
+*****************/
+#contentinfo {padding-bottom: 2em; margin-top: 4em; text-align: left}
+
+/***** Sections *****/
+/* Blog */
+.hentry {
+  display: block;
+  clear: both;
+  border-top: 1px solid #eee;
+  padding: 1.5em 0;
+}
+li:first-child .hentry, #content > .hentry {border: 0; margin: 0;}
+#content > .hentry {padding: 1em 0;}
+.hentry img{display : none ;}
+.entry-title {font-size: 3em; margin-bottom: 10px; margin-top: 0;}
+
+	/* Content */
+.hentry footer {margin-bottom: 2em;}
+.hentry footer address {display: inline;}
+#posts-list footer address {display: block;}
+
+	/* Blog Index */
+#posts-list {list-style: none; margin: 0;}
+#posts-list .hentry {padding-left: 10px; position: relative;}
+
+#posts-list footer {
+  left: 10px;
+  position: relative;
+  float: left;
+  top: 0.5em;
+  max-width: 190px;
+}
+
+	/* About the Author */
+#about-author {
+  background: #f9f9f9;
+  clear: both;
+  font-style: normal;
+  margin: 2em 0;
+  padding: 10px 20px 15px 20px;
+
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+}
+
+#about-author strong {
+  color: #C64350;
+  clear: both;
+  display: block;
+  font-size: 1.429em;
+}
+
+#about-author .photo {border: 1px solid #ddd; float: left; margin: 5px 1em 0 0;}
+
+	/* Comments */
+#comments-list {list-style: none; margin: 0 1em;}
+#comments-list blockquote {
+  background: #f8f8f8;
+  clear: both;
+  font-style: normal;
+  margin: 0;
+  padding: 15px 20px;
+
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+}
+#comments-list footer {color: #888; padding: .5em 1em 0 0; text-align: right;}
+
+#comments-list li:nth-child(2n) blockquote {background: #F5f5f5;}
+
+	/* Add a Comment */
+#add-comment label {clear: left; float: left; text-align: left; max-width: 150px;}
+#add-comment input[type='text'],
+#add-comment input[type='email'],
+#add-comment input[type='url'] {float: left; max-width: 200px;}
+
+#add-comment textarea {float: left; height: 150px; max-width: 495px;}
+
+#add-comment p.req {clear: both; margin: 0 .5em 1em 0; text-align: right;}
+
+#add-comment input[type='submit'] {float: right; margin: 0 .5em;}
+#add-comment * {margin-bottom: .5em;}

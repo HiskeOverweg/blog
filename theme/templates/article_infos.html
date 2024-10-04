@@ -1,0 +1,27 @@
+<footer class="post-info">
+  <side-block>
+    <side-content>
+      <span>
+        Gepubliceerd: {{ article.locale_date }}
+      </span>
+      {% if article.modified %}
+        <br />
+        <span>
+          Updated: {{ article.locale_modified }}
+        </span>
+      {% endif %}
+      {% if article.authors %}
+        <br />
+        <span>
+          Door {% for author in article.authors %}
+            {{ author }}
+          {% endfor %}
+        </span>
+      {% endif %}
+      {% include 'taglist.html' %}
+      {% import 'translations.html' as translations with context %}
+      {{ translations.translations_for(article) }}
+    </side-content>
+  </side-block>
+
+</footer><!-- /.post-info -->
