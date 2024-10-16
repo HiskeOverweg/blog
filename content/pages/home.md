@@ -45,6 +45,6 @@ Kaarten zijn te koop voor €10 (€5 met korting). Graag reserveren door te mai
 
 ## Spelletjesmiddag Daybreak - zondag 17 november 13:00
 
-Doe mee met het coöperatieve bordspel [Daybreak](https://www.daybreakgame.org/), waarin je samen de infrastuctuur voor een veerkrachtige samenleving opbouwt die we nodig hebben om onze planeet te redden.
+Doe mee met het coöperatieve bordspel [Daybreak](https://www.daybreakgame.org/), waarin je samen de infrastructuur voor een veerkrachtige samenleving opbouwt die we nodig hebben om onze planeet te redden.
 
 [Aanmelden](https://lu.ma/k3hheqae)
