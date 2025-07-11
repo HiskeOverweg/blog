@@ -5,7 +5,7 @@ Status:hidden
 
 <side-block>
   <side-content>
-    ![bla]({static}/images/linux.jpeg)
+    ![]({static}/images/linux/linux.jpeg)
      Aan de slag met Linux!
   </side-content>
 </side-block>
