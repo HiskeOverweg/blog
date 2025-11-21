@@ -38,6 +38,9 @@ Youtube [Learn Linux TV](https://www.youtube.com/watch?v=soRIfFqwEwE)
 
 Handleiding [Van start met Linux](https://www.repaircafe.org/wp-content/uploads/2025/07/Linux_RC_Van_start_met_Linux_v_06_2025.pdf)
 
+#### Vragen?
+Heb je een vraag voor ons? Dan kun je ons bereiken via linuxrepaircafe \[at\] pm.me
+
 #### Tot slot
 
 We wensen je veel plezier in je kennismaking met Linux en hopen dat je meer met Linux kunt gaan doen in je dagelijkse leven of in je werk.
